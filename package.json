@@ -1,0 +1,17 @@
+{
+  "name": "TC8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SamyTadashi/TC8.git",
+  "author": "samysalma <js_salma@esi.dz>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.2",
+    "helmet": "^4.6.0",
+    "mongoose": "^6.1.4"
+  },
+  "scripts": {
+    "start": "node src/app.js"
+  }
+}
